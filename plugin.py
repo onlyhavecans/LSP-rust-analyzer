@@ -35,7 +35,7 @@ SESSION_NAME = "rust-analyzer"
 # if any new server settings are added or old ones removed.
 # Compare the previous and new tags's editors/code/package.json with
 # https://github.com/rust-lang/rust-analyzer/compare/2023-01-16...2023-01-30
-TAG = "2023-01-30"
+TAG = "2023-02-06"
 
 URL = "https://github.com/rust-analyzer/rust-analyzer/releases/download/{tag}/rust-analyzer-{arch}-{platform}.gz"
 
